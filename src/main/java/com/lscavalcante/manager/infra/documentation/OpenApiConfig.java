@@ -33,7 +33,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
                 ),
                 @Server(
                         description = "PROD ENV",
-                        url = "in progress"
+                        url = "https://manager-7tb6.onrender.com"
                 )
         },
         security = {
